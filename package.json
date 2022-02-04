@@ -1,0 +1,19 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "basic e-commerce (MERN)",
+  "main": "App.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/-MS_E-commerce_Grus_Tep_Online_Full-time_2021_1.git"
+  },
+  "author": "Anupam Arya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/-MS_E-commerce_Grus_Tep_Online_Full-time_2021_1/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/-MS_E-commerce_Grus_Tep_Online_Full-time_2021_1#readme"
+}
