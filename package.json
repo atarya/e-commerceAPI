@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/nupmry/e-commerceAPI/issues"
   },
-  "homepage": "https://github.com/nupmry/e-commerceAPI#readme"
+  "homepage": "https://github.com/nupmry/e-commerceAPI#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.2.0",
+    "nodemon": "^2.0.15"
+  }
 }
